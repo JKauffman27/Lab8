@@ -11,4 +11,4 @@ function init(){
   button.addEventListener('click', showText);
   }
 
-window.addEventListener('load', init);
+window.addEventListener('load', init); 
